@@ -9,6 +9,7 @@ function Form(){
         lastName:"",
         email:"",
         password:"",
+        userName:"",
         
 
 
